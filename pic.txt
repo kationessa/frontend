@@ -1,0 +1,8 @@
+[ 
+{ "Name" : "Isabella", "link" : "doctor1.jpg", "description":"I can help you!"},
+{ "Name" : "Paul", "link" : "doctor2.jpg", "description":"I have great experience."},
+{ "Name" : "Adolf", "link" : "doctor3.jpg", "description":"I m the smartest!"},
+{ "Name" : "Oscar", "link" : "doctor4.jpg", "description":"I m awesome!"},
+{ "Name" : "Maria", "link" : "doctor5.jpg", "description":"I have the greatest experience!"},
+{ "Name" : "Mark", "link" : "doctor6.jpeg", "description":"I can do everything cool!"}
+]

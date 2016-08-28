@@ -1,0 +1,6 @@
+[ 
+{ "Name" : "Ivan", "City" : "Lviv", "Country" : "Ukraine", "phone" : "11111", "email" : "ivan@hotmail.com"},
+{ "Name" : "Vasya", "City" : "Kiev", "Country" : "Ukraine", "phone" : "22222", "email" : "vasya@hotmail.com"},
+{ "Name" : "Petya", "City" : "Lviv", "Country" : "Ukraine", "phone" : "3333", "email" : "petya@hotmail.com"},
+{ "Name" : "Garik", "City" : "Kiev", "Country" : "Ukraine", "phone" : "44444", "email" : "garik@hotmail.com"}
+]
